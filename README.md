@@ -7,10 +7,10 @@ This project happens because of the community
 Are the peeps behind this project that dedicate time to it on an ongoing and regular basis.
 
 ### David Manners
-Lead Chief Technical Officer 1 - ...
+Lead Chief Technical Officer - Working with web projects since 2007 and doing Magento projects for about 6 years. Currently employed as Senior Software Architect at Sitewards GmbH in Germany.
 
 ### Sander Mangel
-Lead Chief Technical Officer 2 - Working with web projects since 2005 and doing Magento projects for about 6 years. Currently employed as Technical Lead at an international webshop based in The Netherlands and freelancing as an ecommerce consulatant on and off.
+Lead Chief Technical Officer - Working with web projects since 2005 and doing Magento projects for about 6 years. Currently employed as Technical Lead at an international webshop based in The Netherlands and freelancing as an ecommerce consulatant on and off.
 
 
 ## Want to apply?
