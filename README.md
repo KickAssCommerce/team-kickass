@@ -24,5 +24,5 @@ Working with web projects since 2005 and doing Magento projects for about 6 year
 We don't do emails, LinkedIn CVs are anything like that. 
 
 1. Make a PR on this file adding your name, desired position and a bio proving why you are the person for the job.
-2. The PR will stay open for 14 days in which the team members and public have time to ask questions, make remarks etc
-3. After these 14 days we'll place a final comment and either merge or decline the PR. If you have any questions about the outcome do contact us
+2. The PR will stay open for a maximum of 14 days in which the team members and public have time to ask questions, make remarks etc
+3. After a maximum 14 days we'll place a final comment and either merge or decline the PR. If you have any questions about the outcome do contact us
