@@ -19,6 +19,11 @@ Working with web projects since 2007 and doing Magento projects for about 6 year
 
 Working with web projects since 2005 and doing Magento projects for about 6 years. Currently employed as Technical Lead at an international webshop based in The Netherlands and freelancing as an ecommerce consultant on and off.
 
+### Adam Paterson
+- Lead Developer
+- [twitter.com/adam_paterson](https://twitter.com/adam_paterson)
+
+Working with web projects since 2005 and doing Magento projects for about 6 years. Currently employed as Senior Developer at Meanbee in England.
 
 ## Want to apply?
 We don't do emails, LinkedIn CVs are anything like that. 
