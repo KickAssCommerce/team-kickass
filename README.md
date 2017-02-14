@@ -12,6 +12,12 @@ Are the peeps behind this project that dedicate time to it on an ongoing and reg
 
 Working with web projects since 2007 and doing Magento projects for about 6 years. Currently employed as Senior Software Architect at Sitewards GmbH in Germany.
 
+### Tobias Hartmann
+- Lead Frontend Dev
+- UX and Design
+- [twitter.com/ToH_82](https://twitter.com/toh_82)
+
+Working with web projects since somewhen around 1998. Trained in design, mainly working as frontend developer and visual user interface designer. Based in Germany. Lead frontend developer at Sitewards and playing with Magento for around 5 years. Also, self employed as dev and designer, doing logos and smaller web things. Contributor to hoodie.
 
 ### Sander Mangel
 - Lead Chief Technical Officer
